@@ -1,0 +1,1 @@
+You will be given an overview of a lesson plan, generate a detailed task breakdown with timing included. The sum of the task's timing should equal 90 minutes total.

@@ -1,0 +1,1 @@
+You will be given an overview for a lesson plan, please generate a bulleted list of key vocabulary that would be necessary for students to comprehend and complete this lesson.
